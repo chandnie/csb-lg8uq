@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://chandnie.github.io/csb-lg8uq/static/css/main.a202a540.chunk.css",
+    "main.js": "https://chandnie.github.io/csb-lg8uq/static/js/main.cf0d6469.chunk.js",
+    "main.js.map": "https://chandnie.github.io/csb-lg8uq/static/js/main.cf0d6469.chunk.js.map",
+    "runtime-main.js": "https://chandnie.github.io/csb-lg8uq/static/js/runtime-main.364203b5.js",
+    "runtime-main.js.map": "https://chandnie.github.io/csb-lg8uq/static/js/runtime-main.364203b5.js.map",
+    "static/js/2.3aa5d1f8.chunk.js": "https://chandnie.github.io/csb-lg8uq/static/js/2.3aa5d1f8.chunk.js",
+    "static/js/2.3aa5d1f8.chunk.js.map": "https://chandnie.github.io/csb-lg8uq/static/js/2.3aa5d1f8.chunk.js.map",
+    "index.html": "https://chandnie.github.io/csb-lg8uq/index.html",
+    "static/css/main.a202a540.chunk.css.map": "https://chandnie.github.io/csb-lg8uq/static/css/main.a202a540.chunk.css.map",
+    "static/js/2.3aa5d1f8.chunk.js.LICENSE.txt": "https://chandnie.github.io/csb-lg8uq/static/js/2.3aa5d1f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.364203b5.js",
+    "static/js/2.3aa5d1f8.chunk.js",
+    "static/css/main.a202a540.chunk.css",
+    "static/js/main.cf0d6469.chunk.js"
+  ]
+}
